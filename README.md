@@ -1,57 +1,58 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
-<h3 align="center">Developer | Reverse Engineering | Software Development</h3>
+<h1 align="center">Hi 👋, I'm X-Average</h1>
+
+<p align="center">
+Software Developer • Automation • Low-Level & High-Level Programming
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 I work with low-level and high-level programming
-- ⚙️ Interested in software development, automation and reverse engineering
-- 🧩 I enjoy building tools and experimenting with different technologies
-- 🚀 Always learning new things
+I am a developer who enjoys building software, experimenting with different technologies, and exploring how systems work internally.
+
+I work with both low-level and high-level languages and enjoy creating tools, scripts, and applications that automate tasks and solve real problems.
 
 ---
 
-## 🚀 Languages
+## 🚀 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,bash,lua,ts"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,bash,lua,ts&theme=dark"/>
 </p>
 
-- C#
-- C++
-- Java
-- Python
-- Bash
-- Lua
-- TypeScript
-
----
-
-## 🧰 Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,git,linux,docker,vscode"/>
+<p align="center">
+C# • C++ • Java • Python • Bash • Lua • TypeScript
 </p>
 
-- .NET
-- Node.js
-- React
-- Git
-- Linux
-- Docker
+---
+
+## 🧰 Technologies & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,git,linux,docker,vscode&theme=dark"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 What I Do
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- Software Development  
+- Automation & Scripting  
+- Tool Development  
+- Exploring Systems & Programming Concepts  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
+
+## 🎯 Interests
+
+- Software architecture  
+- System internals  
+- Performance optimization  
+- Building useful developer tools  
 
 ---
 
 ## 📫 Contact
 
-- Discord: yourdiscord
-- Telegram: @yourtelegram
+- Discord: @averagedowns  
+- Telegram: @averagesdown
